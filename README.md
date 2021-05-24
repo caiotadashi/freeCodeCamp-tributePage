@@ -1,5 +1,6 @@
 # freeCodeCamp - Build a Tribute Page: Passed :white_check_mark:
 **Codepen Solution Link**: https://codepen.io/caiotadashi/full/bGqqVee
+
 **GitHub Solution Link**: https://caiotadashi.github.io/freeCodeCamp-tributePage/
 
 **Objective**: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
